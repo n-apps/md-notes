@@ -1,20 +1,24 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
+![](https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png)
 
-# Hi, I'm Roma, a product designer. I want to update my personal website and add case studies to it so that the site can serve as a portfolio. Our initial goal is to add to the existing case study \#1 [Board Games Companion App (600K Installs)] and create a new case study \#2 [B2B ecosystem design system]. After that, we will start making stylistic changes.
+```
+Hi, I'm Roma, a product designer. I want to update my personal website and add case studies to it so that the site can serve as a portfolio. Our initial goal is to add to the existing case study 1 [Board Games Companion App (600K Installs)] and create a new case study 2 [B2B ecosystem design system]. After that, we will start making stylistic changes.
 
-For now, create the following prompt for the LLM agent to generate case \#1 and case \#2:
+For now, create the following prompt for the LLM agent to generate case 1 and case 2:
 
 Important
-– for case \#1, we must rely on content from my current website (https://raw.githubusercontent.com/n-apps/md-notes/refs/heads/main/[Roma% 20portfolio%5D%20Content%20of%20romamakescom.md) and social media posts (https://github.com/n-apps/md-notes/raw/refs/heads/main/[Social media posts] Score Counter- Count Anyth.md)
+– for case 1, we must rely on content from my current website (https://raw.githubusercontent.com/n-apps/md-notes/refs/heads/main/[Roma% 20portfolio%5D%20Content%20of%20romamakescom.md) and social media posts (https://github.com/n-apps/md-notes/raw/refs/heads/main/[Social media posts] Score Counter- Count Anyth.md)
 – recommendations from Fedor Shkliarau's book (https://raw.githubusercontent.com/n-apps/md-notes/refs/heads/main/[Recommendations] Case Study Recommendations for Product Designers.md)
-– take into account references from similar sites (https://github.com/n-apps/md-notes/raw/refs/heads/main/[Case Example] Building a Scalable, Reusable Design System Template.md, [https://github.com/n-apps/md-notes/raw/refs/heads/main/%5BCase%20Example%5D%20Design%20System.md](https://github.com/n-apps/md-notes/raw/refs/heads/main/%5BCase%20Example%5D%20Design%20System.md), https://github.com/n-apps/md-notes/raw/refs/heads/main/[Case Example] Rember.md)
-– Case \#2 [B2B ecosystem design system] involves creating a design system from scratch for Yesim's group of B2B products. The challenge was to ensure scalability and flexibility, as the components of the design system will be used in at least three products. The design system also had to provide the ability to customize the appearance for each product (an approach similar to working with sub-brands).
+– take into account references from similar sites (https://github.com/n-apps/md-notes/raw/refs/heads/main/[Case Example] Building a Scalable, Reusable Design System Template.md, https://github.com/n-apps/md-notes/raw/refs/heads/main/%5BCase%20Example%5D%20Design%20System.md, https://github.com/n-apps/md-notes/raw/refs/heads/main/[Case Example] Rember.md)
+– Case 2 [B2B ecosystem design system] involves creating a design system from scratch for Yesim's group of B2B products. The challenge was to ensure scalability and flexibility, as the components of the design system will be used in at least three products. The design system also had to provide the ability to customize the appearance for each product (an approach similar to working with sub-brands).
+```
 
 - for images use placeholders e.g. [image with the final result.jpg]
 
-Copy‑paste the prompt below into your LLM agent. It’s designed to produce two website‑ready case studies, while keeping Case \#1 strictly grounded in your existing materials and making Case \#2 strong for hiring managers via clear context, decisions, and outcomes. Guidance like “capture decisions while the project is fresh” and “keep case studies visual and concise” is consistent with common portfolio advice from Fedor Shkliarau and hiring-manager heuristics (e.g., lead with visuals, show impact).[^1][^2]
+```
+Copy‑paste the prompt below into your LLM agent. It’s designed to produce two website‑ready case studies, while keeping Case 1 strictly grounded in your existing materials and making Case 2 strong for hiring managers via clear context, decisions, and outcomes. Guidance like “capture decisions while the project is fresh” and “keep case studies visual and concise” is consistent with common portfolio advice from Fedor Shkliarau and hiring-manager heuristics (e.g., lead with visuals, show impact).^1
+```
 
-```text
+```
 You are an expert product-design case-study writer + editor. You write in first person (“I”) as Roma, a product designer. Your job is to produce TWO case studies for my personal website portfolio.
 
 NON‑NEGOTIABLES
@@ -163,37 +167,8 @@ Now produce:
 2) case-2.md
 ```
 
-<span style="display:none">[^10][^11][^12][^13][^14][^15][^3][^4][^5][^6][^7][^8][^9]</span>
+ 
 
-<div align="center">⁂</div>
+ 
 
-[^1]: https://www.linkedin.com/posts/fedor_the-best-time-to-work-on-case-studies-for-activity-7274761813458616321-LOSS
-
-[^2]: https://jlzych.com/2022/10/24/ingredients-for-a-great-product-design-case-study/
-
-[^3]: https://gist.github.com/nnja/9136152c163091614e70defcf3753d06
-
-[^4]: https://www.make.md
-
-[^5]: https://www.docs-md.com
-
-[^6]: https://raw.githubusercontent.com/google/gitiles/master/Documentation/markdown.md
-
-[^7]: https://stories.hackmd.io
-
-[^8]: https://apkcombo.com/file-converter/com.icecoldapps.fileconverter/
-
-[^9]: https://romhandbook.com
-
-[^10]: https://wise.readwise.io/issues/wisereads-vol-42/
-
-[^11]: https://md.dhr.wtf
-
-[^12]: https://www.scribd.com/document/774526099/Product-Design-Portfolio-Final-Final-Preview
-
-[^13]: https://github.com/Make-md/makemd
-
-[^14]: https://www.reddit.com/r/UXDesign/comments/1avrvpe/senior_product_designer_case_studies/
-
-[^15]: https://md-notes-docs.netlify.app
-
+ 

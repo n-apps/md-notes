@@ -4,9 +4,7 @@ Website portfolio references
 
 # Website portfolio references
 
-[https://www.hunterjennings.dev](https://www.hunterjennings.dev)
-
-[https://github.com/h-jennings/portfolio-v3 (https://www.hunterjennings.dev source)](https://github.com/h-jennings/portfolio-v3)
+[https://www.hunterjennings.dev (https://github.com/h-jennings/portfolio-v3)](https://www.hunterjennings.dev)
 
 [https://ssslavik.framer.ai](https://ssslavik.framer.ai)
 
@@ -15,5 +13,3 @@ Website portfolio references
 [https://valentina-design-portfolio.framer.website/work/design-system](https://valentina-design-portfolio.framer.website/work/design-system)
 
 [https://www.andrewstichbury.com/rember/](https://www.andrewstichbury.com/rember/)
-
- 

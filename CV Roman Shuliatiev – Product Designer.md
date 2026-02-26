@@ -1,6 +1,6 @@
 # CV Roman Shuliatiev – Product Designer
 
-## Product Designer with 5+ years of experience | Ukraine, Kyiv 
+## Product Designer with 5+ years of experience | Ukraine, Kyiv
 
 | - | - |
 
@@ -41,10 +41,6 @@ Job duties and responsibilities:
 - ● Write, edit, and improve clear and effective UX copy to support user goals
 - ● Enhance existing web and mobile platforms through UX improvements
 
- 
-
- 
-
 ## Android Developer* / Product Designer @ Eventssion
 
 Project details: Event management and online ticketing platform
@@ -57,7 +53,6 @@ Job duties and responsibilities:
 - ● Design concepts, user flows, wireframes and prototypes
 - ● Conduct usability studies with end-users
 - ● Ensure a consistent user experience across multiple platforms
-
 - shifted my role to a Product Designer through a career progression within the project. | 2016 – 20204 years 3 monthsfull-time, office |
 
 ### | ## Information Technology Specialist @ Japan Tobacco International
@@ -66,8 +61,6 @@ Job duties and responsibilities:
 
 - ● Gather requirements from the business analysis team
 - ● Develop and maintain company's internal software tools
-
- 
 
 # PET PROJECTS
 
@@ -89,8 +82,6 @@ I was proud to achieve the following results:
 - ● 600K installs / 50,000 MAU
 - ● 5.0 rating
 
- 
-
 ## | ## Paragraphus, Android App
 
 Project details: Paragraphus offers a refreshing way to discover world literature basedpurely on content. I built this app as a side project during the COVID-19 Pandemic.  | 2020 |
@@ -99,8 +90,6 @@ My role
 
 - ● Conceptualization and ideation of project ideas
 - ● Full-cycle development and all related activities
-
- 
 
 # SKILLS & TOOLS
 
@@ -113,7 +102,3 @@ Design Skills: Product Design, User Experience, Mobile App Design, Design System
 Languages
 
 Ukrainian, Russian, English
-
- 
-
- 

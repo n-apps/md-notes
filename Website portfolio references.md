@@ -13,3 +13,5 @@ Website portfolio references
 [https://valentina-design-portfolio.framer.website/work/design-system](https://valentina-design-portfolio.framer.website/work/design-system)
 
 [https://www.andrewstichbury.com/rember/](https://www.andrewstichbury.com/rember/)
+
+[https://angelaluk.com/case-studies/intercom-messenger/](https://angelaluk.com/case-studies/intercom-messenger/)

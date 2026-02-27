@@ -18,17 +18,17 @@
 
 Job duties and responsibilities:
 
-- ● Design intuitive and functional interfaces for web and mobile products acrossboth B2B and B2C contexts
-- ● Create and develop (with AI assistant) interactive prototypes
-- ● Conducting competitor and UX research
-- ● Create and maintain design systems
-- ● Regular audit of the company's product line to improve UI/UX
-- ● Provide clear and effective UX copy to support user goals
-- ● Create promo materials for marketing activities
-- ● Continuously iterate based on feedback and performance insights
-- ● Generating and validating hypotheses, launching A/B tests
-- ● Conducting moderated usability testing
-- ● UI quality assurance activities
+- Design intuitive and functional interfaces for web and mobile products across B2B and B2C contexts
+- Built and scaled a B2B ecosystem design system, ensuring consistent cross-platform UI across partner and consumer products
+- Collaborated with product, engineering, and marketing teams to align design decisions with business goals
+- Designed for a global audience — localization-aware UX across web and mobile for a worldwide eSIM marketplace
+- Conducted competitor and UX research to identify opportunities and inform design direction
+- Analyzed product performance using GA4 and BigQuery to validate design decisions and uncover UX improvements
+- Generating and validating hypotheses, launching A/B tests
+- Conducted moderated usability testing and synthesized findings into actionable design iterations
+- Created and maintained design systems to enable faster, more consistent product development
+- Ensured developer handoff quality through thorough specs, component documentation, and collaborative QA with engineers
+- Regular audit of the company's product line to proactively surface UI/UX improvements
 
 ## Product Designer @ [SMBF.me](http://SMBF.me)
 
